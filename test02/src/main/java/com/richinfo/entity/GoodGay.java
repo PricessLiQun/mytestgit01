@@ -4,5 +4,5 @@ public class GoodGay {
 
 	String name;
 	int age;
-	int c,d,f;
+	int c,d,f，g,h,p;
 }
